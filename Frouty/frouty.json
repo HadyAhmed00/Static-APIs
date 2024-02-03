@@ -16,6 +16,14 @@
     "color": "#00ff00"
   },
   {
+    "id" : 3,
+    "title": "Item 3",
+    "subTitle": "Description 3",
+    "img": "https://images.unsplash.com/photo-1557800636-894a64c1696f?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "isNew": false,
+    "color": "#0000ff"
+  },
+  {
     "id" : 4,
     "title": "Item 4",
     "subTitle": "Description 4",
